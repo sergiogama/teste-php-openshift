@@ -1,4 +1,4 @@
 <?php
-print("Olá Senior e clientes!");
+print("Teste de OpenShift!");
 phpinfo();
 ?>
