@@ -1,4 +1,4 @@
 <?php
-print("Teste de OpenShift!");
+print("Teste de OpenShift direto do VS Code!");
 phpinfo();
 ?>
