@@ -1,4 +1,4 @@
 <?php
-print("Teste de OpenShift integrado com GitHUb - IBM EDUCATION 2021 - TESTE!");
+print("Teste de OpenShift integrado com GitHUb");
 phpinfo();
 ?>
