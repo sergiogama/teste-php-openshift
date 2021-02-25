@@ -1,4 +1,4 @@
 <?php
-print("Teste de OpenShift integrado com GitHUb");
+print("Teste de OpenShift integrado com GitHUb-X");
 phpinfo();
 ?>
