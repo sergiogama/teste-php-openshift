@@ -1,4 +1,4 @@
 <?php
-print("Teste de OpenShift, do GAMA, direto do VS Code, para Imagem!");
+print("Teste de OpenShift integrado com GitHUb - IBM EDUCATION 2021!");
 phpinfo();
 ?>
