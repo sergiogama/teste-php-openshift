@@ -1,4 +1,4 @@
 <?php
-print("BOM DIA PESSOAL DA FATEC");
+print("HELLO WORLD!!");
 phpinfo();
 ?>
